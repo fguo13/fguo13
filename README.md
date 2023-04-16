@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @fguo13
-- 👀 I’m interested in being very good at basketball
-- 🌱 I’m currently learning Java, C, VHDL
+- 🌱 I’m currently learning Java, C, Python
 - 💞️ I’m looking to collaborate on EUW duoqueue
 - 📫 How to reach me twicenayeonfan123@gmail.com
 
