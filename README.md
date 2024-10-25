@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @fguo13
-- 🌱 I’m currently learning Java, C, Python
-- 💞️ I’m looking to collaborate on EUW duoqueue
+- 🌱 I’m currently learning Java, Python
 - 📫 How to reach me twicenayeonfan123@gmail.com
 
 <!---
